@@ -48,9 +48,3 @@ using structured SQL queries.
 - GROUP BY and ORDER BY
 - CASE statements for conditional logic
 
----
-
-## 👤 Author
-Your Name  
-B.Tech Electrical Engineering  
-MANIT Bhopal
